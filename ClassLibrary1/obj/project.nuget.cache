@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4qD3rx1afPMBPBI/qSlImkrqcrVNQy6vnzSfl1qyLrN3XAg9VudfoSUauzigwG2iOzHpbUysyJV3e7q8ZAIOfw==",
+  "success": true,
+  "projectFilePath": "C:\\EcoleCoraniqueWepApi\\ClassLibrary1\\Administrateur.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
