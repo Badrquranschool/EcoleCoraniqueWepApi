@@ -1,0 +1,39 @@
+C:\Users\Saffou\source\repos\Ecole Coranique\Ecole Coranique\bin\Debug\netcoreapp2.1\Ecole Coranique.deps.json
+C:\Users\Saffou\source\repos\Ecole Coranique\Ecole Coranique\bin\Debug\netcoreapp2.1\Ecole Coranique.runtimeconfig.json
+C:\Users\Saffou\source\repos\Ecole Coranique\Ecole Coranique\bin\Debug\netcoreapp2.1\Ecole Coranique.runtimeconfig.dev.json
+C:\Users\Saffou\source\repos\Ecole Coranique\Ecole Coranique\bin\Debug\netcoreapp2.1\Ecole Coranique.dll
+C:\Users\Saffou\source\repos\Ecole Coranique\Ecole Coranique\bin\Debug\netcoreapp2.1\Ecole Coranique.pdb
+C:\Users\Saffou\source\repos\Ecole Coranique\Ecole Coranique\bin\Debug\netcoreapp2.1\Ecole Coranique.Views.dll
+C:\Users\Saffou\source\repos\Ecole Coranique\Ecole Coranique\bin\Debug\netcoreapp2.1\Ecole Coranique.Views.pdb
+C:\Users\Saffou\source\repos\Ecole Coranique\Ecole Coranique\obj\Debug\netcoreapp2.1\Ecole Coranique.csprojAssemblyReference.cache
+C:\Users\Saffou\source\repos\Ecole Coranique\Ecole Coranique\obj\Debug\netcoreapp2.1\Ecole Coranique.csproj.CoreCompileInputs.cache
+C:\Users\Saffou\source\repos\Ecole Coranique\Ecole Coranique\obj\Debug\netcoreapp2.1\Ecole Coranique.RazorAssemblyInfo.cache
+C:\Users\Saffou\source\repos\Ecole Coranique\Ecole Coranique\obj\Debug\netcoreapp2.1\Ecole Coranique.RazorAssemblyInfo.cs
+C:\Users\Saffou\source\repos\Ecole Coranique\Ecole Coranique\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Saffou\source\repos\Ecole Coranique\Ecole Coranique\obj\Debug\netcoreapp2.1\Ecole Coranique.AssemblyInfoInputs.cache
+C:\Users\Saffou\source\repos\Ecole Coranique\Ecole Coranique\obj\Debug\netcoreapp2.1\Ecole Coranique.AssemblyInfo.cs
+C:\Users\Saffou\source\repos\Ecole Coranique\Ecole Coranique\obj\Debug\netcoreapp2.1\Ecole Coranique.TagHelpers.input.cache
+C:\Users\Saffou\source\repos\Ecole Coranique\Ecole Coranique\obj\Debug\netcoreapp2.1\Ecole Coranique.TagHelpers.output.cache
+C:\Users\Saffou\source\repos\Ecole Coranique\Ecole Coranique\obj\Debug\netcoreapp2.1\Ecole Coranique.RazorCoreGenerate.cache
+C:\Users\Saffou\source\repos\Ecole Coranique\Ecole Coranique\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Saffou\source\repos\Ecole Coranique\Ecole Coranique\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Saffou\source\repos\Ecole Coranique\Ecole Coranique\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Saffou\source\repos\Ecole Coranique\Ecole Coranique\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Saffou\source\repos\Ecole Coranique\Ecole Coranique\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Saffou\source\repos\Ecole Coranique\Ecole Coranique\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Saffou\source\repos\Ecole Coranique\Ecole Coranique\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Saffou\source\repos\Ecole Coranique\Ecole Coranique\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Saffou\source\repos\Ecole Coranique\Ecole Coranique\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Saffou\source\repos\Ecole Coranique\Ecole Coranique\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Saffou\source\repos\Ecole Coranique\Ecole Coranique\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Saffou\source\repos\Ecole Coranique\Ecole Coranique\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Saffou\source\repos\Ecole Coranique\Ecole Coranique\obj\Debug\netcoreapp2.1\Ecole Coranique.RazorTargetAssemblyInfo.cache
+C:\Users\Saffou\source\repos\Ecole Coranique\Ecole Coranique\obj\Debug\netcoreapp2.1\Ecole Coranique.RazorTargetAssemblyInfo.cs
+C:\Users\Saffou\source\repos\Ecole Coranique\Ecole Coranique\obj\Debug\netcoreapp2.1\Ecole Coranique.Views.pdb
+C:\Users\Saffou\source\repos\Ecole Coranique\Ecole Coranique\obj\Debug\netcoreapp2.1\Ecole Coranique.dll
+C:\Users\Saffou\source\repos\Ecole Coranique\Ecole Coranique\obj\Debug\netcoreapp2.1\Ecole Coranique.pdb
+C:\Users\Saffou\source\repos\Ecole Coranique\Ecole Coranique\obj\Debug\netcoreapp2.1\Ecole Coranique.csproj.CopyComplete
+C:\Users\Saffou\source\repos\Ecole Coranique\Ecole Coranique\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\Saffou\source\repos\Ecole Coranique\Ecole Coranique\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+C:\Users\Saffou\source\repos\Ecole Coranique\Ecole Coranique\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\Saffou\source\repos\Ecole Coranique\Ecole Coranique\obj\Debug\netcoreapp2.1\Razor\Views\Shared\LoginDisplay.g.cshtml.cs
